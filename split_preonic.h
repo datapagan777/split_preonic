@@ -23,4 +23,4 @@
         KC_##L40, KC_##L41, KC_##L42, KC_##L43, KC_##L44, KC_##L45, KC_##R40, KC_##R41, KC_##R42, KC_##R43, KC_##R44, KC_##R45 \
     )
 
-#define LAYOUT_kc_ortho_4x12 LAYOUT_kc
+#define LAYOUT_kc_ortho_5x12 LAYOUT_kc

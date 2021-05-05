@@ -6,6 +6,9 @@ MIDI has been deleted
 
 special thanks to https://github.com/alexisphilip/masplit as I used his code as a base.
 
+place contents of repo inside `keyboards/split_preonic`
+should flash with the commands below
+
 Compile the firmware.
 
 ```cmd
